@@ -48,7 +48,7 @@ MonoBehaviour:
   - text: 8
     correct: 1
   - text: 34
-    correct: 1
+    correct: 0
   - text: 32
     correct: 0
   - text: 2
